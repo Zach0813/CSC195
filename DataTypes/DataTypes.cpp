@@ -36,6 +36,7 @@ int main()
 
     cout << lesniewski::i << endl;
     cout << "Hello Data!\n";
+    cout << "Git!\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
